@@ -9,7 +9,8 @@ export default defineConfig({
     rollupOptions: {
       external: [
         'react-router-dom',
-        'react-toastify'
+        'react-toastify',
+        'react-toastify/dist/ReactToastify.css'
       ]
     }
   }
