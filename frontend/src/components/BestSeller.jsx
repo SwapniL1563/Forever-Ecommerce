@@ -17,7 +17,7 @@ const BestSeller = () => {
         <div className='text-center py-8 text-3xl'>
             <Title text1={'BEST'} text2={'SELLERS'} />
             <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore sit neque eius a accusantium explicabo nobis deserunt. Molestias, soluta aperiam?</p>
+            Discover the timeless favorites that our customers can't get enough of in Forever's Best Sellers collection. From versatile wardrobe staples to statement pieces, these top-rated items are loved for their style, comfort, and quality.</p>
         </div>
 
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 gap-y-6">
