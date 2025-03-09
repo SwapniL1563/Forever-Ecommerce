@@ -8,7 +8,7 @@ const Footer = () => {
 
         <div>
             <img src={assets.logo} className='mb-5 w-32 ' alt="" />
-            <p className='w-full md:w-2/3 text-gray-600'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima aliquam, provident quasi dicta earum voluptatem?</p>
+            <p className='w-full md:w-2/3 text-gray-600'>Where Style Meets Comfort. Discover trendy and comfortable fashion for men, women, and kids.</p>
         </div>
 
         <div>

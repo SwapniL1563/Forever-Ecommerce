@@ -13,10 +13,15 @@ const About = () => {
     <div className="my-10 flex  flex-col md:flex-row gap-16">
       <img className='w-full md:max-w-[450px] ' src={assets.about_img} alt="" />
       <div className="flex flex-col justify-center gap-6 md:w-2/4 text-gray-600">
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores similique harum laudantium omnis, sit tenetur, quam minima quibusdam at temporibus dignissimos dolorem deleniti est atque!</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat inventore distinctio tempore dolores, adipisci iure aspernatur provident? Eveniet hic recusandae non alias eligendi totam expedita distinctio? Rerum veniam libero dolorum.</p>
+      <p>At Forever, we believe fashion should be a perfect blend of style and comfort. Our mission is to bring you the latest trends without compromising on quality, fit, or everyday ease.
+
+From chic topwear to cozy winterwear and trendy bottomwear, we’ve got something for everyone—men, women, and kids, in all sizes!
+
+Join us on our journey to make fashion more inclusive, stylish, and effortless.</p>
+      
       <b className='text-gray-800 '>Our Mission</b>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi aperiam quae recusandae fugiat repudiandae ad cumque assumenda, repellendus natus nisi.</p>
+      <p>We aim to redefine fashion by making it inclusive, comfortable, and effortlessly stylish for everyone. Our goal is to create a wardrobe that reflects your personality, no matter the season or occasion.</p>
+      <p></p>
       </div>
     </div>
 
